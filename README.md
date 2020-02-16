@@ -1,6 +1,8 @@
 # CM6206-Catalina
 CM6206 Driver for MacOS Catalina 10.15
 
+I'm making this since it took me a really long time to find a solution. Before you use this also make sure to try a lot of USB ports since sound worked on some but optical didn't. 
+
 Thanks to: https://www.dr-lex.be/software/cm6206.html
 
 ## Compile 
